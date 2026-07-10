@@ -1,0 +1,17 @@
+# Environments
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Data
+data/raw/
+data/processed/
+!data/raw/external_events.csv
+
+# VS Code
+.vscode/

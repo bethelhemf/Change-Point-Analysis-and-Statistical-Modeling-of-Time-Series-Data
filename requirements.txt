@@ -1,0 +1,22 @@
+# Data Handling & Math
+pandas
+numpy
+scipy
+
+# Visualizations
+matplotlib
+seaborn
+arviz
+
+# Bayesian Modeling (Task 2 Core)
+pymc
+pytensor
+
+# Statistical Modeling (Task 2 Advanced)
+statsmodels
+ruptures
+
+# Jupyter & Utilities
+ipykernel
+notebook
+pytest
