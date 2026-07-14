@@ -1,0 +1,13 @@
+{
+    "python.terminal.activateEnvInSelectedTerminal": true,
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.formatting.provider": "black",
+    "editor.formatOnSave": true,
+    "notebook.output.textLineLimit": 100,
+    "python.testing.pytestArgs": [
+        "tests"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}

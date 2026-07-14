@@ -1,18 +1,18 @@
-# Environments
-venv/
-.venv/
-env/
-
 # Python
+venv/
 __pycache__/
 *.pyc
-.ipynb_checkpoints/
 
 # Data
-data/raw/
+data/raw/BrentOilPrices.csv
 data/processed/
-!data/raw/external_events.csv
 
-# VS Code
-.vscode/
-node_modules
+# React / Node
+node_modules/
+frontend/node_modules/
+frontend/build/
+.eslintcache
+
+# Env
+.env
+.DS_Store
